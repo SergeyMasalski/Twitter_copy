@@ -1,6 +1,6 @@
 'use strict';
 
-import { TweetsController } from '../scripts/controller/controller.js';
+import { TweetsController } from './scripts/controller/controller.js';
 import { TweetCollection } from './scripts/model/TweetCollection.model.js';
 import { TweetFeedView } from './scripts/view/TweetFeedView.view.js';
 import { HeaderView } from './scripts/view/HeaderView.view.js';
