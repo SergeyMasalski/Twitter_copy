@@ -4,13 +4,12 @@ export const autorisation = `<div id="mainWrapper">
 <menu id="leftBlock">
     <img src="assets/images/img_autorisation/LOGO.png" class="vectorKat" />
     <div>
-        <h2 class="Sign">Autorization</h2>
-        <h2 class="mainPage"></h2>
+        <h2 class="autorization">Autorization</h2>
     </div>
 </menu>
 <menu id="raightBlock">
     <header class="mainHader">
-        <img src="assets/images/img_autorisation/Home.png" class="imgHome" />
+        <div class="imgHome"></div>
         <h3>Authorization</h3>
         <h3>></h3>
     </header>
@@ -19,59 +18,38 @@ export const autorisation = `<div id="mainWrapper">
         <form method="get" id="mainFormBlockRaight">
             <input type="text" placeholder="username" class="userName" />
             <input type="password" placeholder="password" class="password" />
-            <button class="sign-up"><a href="#" class="sign-up-effect">Sign Up</a></button>
+            <button class="sign-up"><a href="#" class="sign-up-effect">Sign In</a></button>
             <a>If you don't have an account</a>
-            <a id="autorisationSign">Sign</a>
+            <a id="autorisationSign">Sign Up</a>
         </form>
     </section>
 </menu>
-</div>
-<footer id="footerEnd">
-<ul>
-    <h2>Nyatter</h2>
-    <li>last update: 19.02.2022</li>
-</ul>
-<ul>
-    <h2>Dmitry Masalski</h2>
-    <li class="liraight">DimOn-1566@mail.ru</li>
-</ul>
-</footer> `;
+</div> `;
 
-export const registration = `  <div id="registrationMainWrapper">
-<menu id="registrationLeftBlock">
-    <img src="assets/images/img_registration_page/LOGO.png" class="registration-cat" />
-    <h2 class="registration-sign">Registration</h2>
-    <h2 class="registration-main-page"></h2>
-</menu>
-<menu id="registrationRaightBlock">
-    <header class="registration-mainHader">
-        <img src="assets/images/img_registration_page/Vector (Home).png" class="registration-imgHome" />
-        <h3>Registration</h3>
-        <h3>></h3>
-    </header>
-    <section id="registrationMainSektion">
-        <img src="assets/images/img_registration_page/LogoGroup.png" />
-        <form method="get" id="registrationMainFormBlockRaight">
-            <input type="text" placeholder="username" class="registration-user-name" />
-            <input type="password" placeholder="password" class="registration-password" />
-            <input type="password" placeholder="confirm password" class="registration-password confirm" />
-            <button class="registration-signUp"><a href="#" class="registration-sign-up-effect">Sign</a></button>
-            <a>if you don't have an account</a>
-            <a id="registrationSign">Sign Up</a>
-        </form>
+export const registration = `<div id="registrationMainWrapper">
+    <section id="registrationLeftBlock">
+        <img src="assets/images/img_registration_page/LOGO.png" class="registration-cat" />
+        <h2 class="registration-sign">Registration</h2>
     </section>
-</menu>
-</div>
-<footer id="registrationFooterEnd">
-<ul>
-    <h2>Nyatter</h2>
-    <li>last update: 19.02.2022</li>
-</ul>
-<ul>
-    <h2>Dmitry Masalski</h2>
-    <li class="registration-liraight">DimOn-1566@mail.ru</li>
-</ul>
-</footer>`;
+    <section id="registrationRaightBlock">
+        <header class="registration-mainHader">
+            <img src="assets/images/img_registration_page/Vector (Home).png" class="registration-imgHome" />
+            <h3>Registration</h3>
+            <h3>></h3>
+        </header>
+        <section id="registrationMainSektion">
+            <img src="assets/images/img_registration_page/LogoGroup.png" />
+            <form method="get" id="registrationMainFormBlockRaight">
+                <input type="text" placeholder="username" class="registration-user-name" />
+                <input type="password" placeholder="password" class="registration-password" />
+                <input type="password" placeholder="confirm password" class="registration-password confirm" />
+                <button class="registration-signUp"><a href="#" class="registration-sign-up-effect">Sign Up</a></button>
+                <a>if you don't have an account</a>
+                <a id="registrationSign">Sign In</a>
+            </form>
+        </section>
+    </section>
+</div>`;
 
 export const errorPage = `<div id="errorMainWrapper">
 <menu id="errorLeftBlock">
@@ -161,7 +139,6 @@ export const tweetPage = `<div class="container-twit">
     <h1>Welcome!</h1>
     <h2 id="helloUser"></h2>
     <a href="#" id="twitLogOut">Log out</a>
-    <div class="welcome-site-twit">Tweet Page</div>
 </aside>
 <main class="twit-main" id="twitMain">
     <div class="twit-main-navigation">
