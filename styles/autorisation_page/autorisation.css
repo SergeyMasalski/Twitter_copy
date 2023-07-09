@@ -67,7 +67,7 @@ body {
   width: 25px;
   height: 25px;
   margin-left: 41px;
-  background: url(../../assets/images/img_autorisation/Home.png);
+  background: url(../assets/images/img_autorisation/Home.png);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -113,7 +113,7 @@ body {
 }
 #mainWrapper #raightBlock #mainSektion #mainFormBlockRaight .userName {
   margin-top: 26.6px;
-  background: url(../../assets/images/img_autorisation/userName.png);
+  background: url(../assets/images/img_autorisation/userName.png);
   outline: none;
   background-repeat: no-repeat;
   background-color: white;
@@ -122,7 +122,7 @@ body {
   background-position-y: 10px;
 }
 #mainWrapper #raightBlock #mainSektion #mainFormBlockRaight .password {
-  background: url(../../assets/images/img_autorisation/Home.png);
+  background: url(../assets/images/img_autorisation/Home.png);
   outline: none;
   background-repeat: no-repeat;
   background-color: white;

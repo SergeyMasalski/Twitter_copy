@@ -23,7 +23,7 @@ body {
   margin-top: 100px;
   width: 95px;
   height: 81px;
-  background: url(../../assets/images/img_main_page/Group.png);
+  background: url(../assets/images/img_main_page/Group.png);
 }
 .main-container .main-welcome h1 {
   margin: 0;
@@ -79,17 +79,17 @@ body {
 }
 .main-container .main-content .main-navigation .main-navigation-icon {
   margin-left: 41px;
-  background: url(../../assets/images/img_main_page/home.png);
+  background: url(../assets/images/img_main_page/home.png);
   width: 25px;
   height: 25px;
 }
 .main-container .main-content .main-navigation a {
   text-decoration: none;
   font-size: 12px;
-  color: #88658C;
+  color: #88658c;
 }
 .main-container .main-content .main-navigation :last-of-type {
-  color: #88658C;
+  color: #88658c;
   font-size: 12px;
 }
 .main-container .main-content .main-new-twit {
@@ -240,7 +240,7 @@ body {
 .main-container .main-content .main-current-all-tweets .main-current-twit .main-current-twit-info .main-current-twit-info-edit {
   width: 25px;
   height: 25px;
-  background: url(../../assets/images/img_main_page/edit.png);
+  background: url(../assets/images/img_main_page/edit.png);
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.2s;
@@ -254,7 +254,7 @@ body {
 .main-container .main-content .main-current-all-tweets .main-current-twit .main-current-twit-info .main-current-twit-info-delete {
   width: 29px;
   height: 29px;
-  background: url(../../assets/images/img_main_page/Delete.png);
+  background: url(../assets/images/img_main_page/Delete.png);
   background-repeat: no-repeat;
   background-position: center;
   box-sizing: border-box;
@@ -270,7 +270,7 @@ body {
 .main-container .main-content .main-current-all-tweets .main-current-twit .main-current-twit-info .main-current-twit-info-messege {
   width: 27px;
   height: 25px;
-  background: url(../../assets/images/img_main_page/Comment.png);
+  background: url(../assets/images/img_main_page/Comment.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 80%;

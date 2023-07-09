@@ -72,7 +72,7 @@ body {
   width: 25px;
   height: 25px;
   margin-left: 41px;
-  background: url(../../assets/images/img_autorisation/Home.png);
+  background: url(../assets/images/img_autorisation/Home.png);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -118,7 +118,7 @@ body {
 }
 #mainWrapper #raightBlock #mainSektion #mainFormBlockRaight .userName {
   margin-top: 26.6px;
-  background: url(../../assets/images/img_autorisation/userName.png);
+  background: url(../assets/images/img_autorisation/userName.png);
   outline: none;
   background-repeat: no-repeat;
   background-color: white;
@@ -127,7 +127,7 @@ body {
   background-position-y: 10px;
 }
 #mainWrapper #raightBlock #mainSektion #mainFormBlockRaight .password {
-  background: url(../../assets/images/img_autorisation/Home.png);
+  background: url(../assets/images/img_autorisation/Home.png);
   outline: none;
   background-repeat: no-repeat;
   background-color: white;
@@ -318,7 +318,7 @@ body {
   height: 45px;
 }
 #registrationMainWrapper #registrationMainSektion #registrationMainFormBlockRaight .registration-user-name {
-  background-image: url(../../assets/images/img_registration_page/userName.png);
+  background-image: url(../assets/images/img_registration_page/userName.png);
   outline: none;
   background-repeat: no-repeat;
   background-color: #fffffa;
@@ -328,7 +328,7 @@ body {
   margin-top: 15px;
 }
 #registrationMainWrapper #registrationMainSektion #registrationMainFormBlockRaight .registration-password {
-  background: url(../../assets/images/img_registration_page/Group.png);
+  background: url(../assets/images/img_registration_page/Group.png);
   outline: none;
   background-repeat: no-repeat;
   background-color: #fffffa;
@@ -625,7 +625,7 @@ body {
   margin-top: 100px;
   width: 95px;
   height: 81px;
-  background: url(../../assets/images/img_main_page/Group.png);
+  background: url(../assets/images/img_main_page/Group.png);
 }
 .main-container .main-welcome h1 {
   margin: 0;
@@ -681,17 +681,17 @@ body {
 }
 .main-container .main-content .main-navigation .main-navigation-icon {
   margin-left: 41px;
-  background: url(../../assets/images/img_main_page/home.png);
+  background: url(../assets/images/img_main_page/home.png);
   width: 25px;
   height: 25px;
 }
 .main-container .main-content .main-navigation a {
   text-decoration: none;
   font-size: 12px;
-  color: #88658C;
+  color: #88658c;
 }
 .main-container .main-content .main-navigation :last-of-type {
-  color: #88658C;
+  color: #88658c;
   font-size: 12px;
 }
 .main-container .main-content .main-new-twit {
@@ -842,7 +842,7 @@ body {
 .main-container .main-content .main-current-all-tweets .main-current-twit .main-current-twit-info .main-current-twit-info-edit {
   width: 25px;
   height: 25px;
-  background: url(../../assets/images/img_main_page/edit.png);
+  background: url(../assets/images/img_main_page/edit.png);
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.2s;
@@ -856,7 +856,7 @@ body {
 .main-container .main-content .main-current-all-tweets .main-current-twit .main-current-twit-info .main-current-twit-info-delete {
   width: 29px;
   height: 29px;
-  background: url(../../assets/images/img_main_page/Delete.png);
+  background: url(../assets/images/img_main_page/Delete.png);
   background-repeat: no-repeat;
   background-position: center;
   box-sizing: border-box;
@@ -872,7 +872,7 @@ body {
 .main-container .main-content .main-current-all-tweets .main-current-twit .main-current-twit-info .main-current-twit-info-messege {
   width: 27px;
   height: 25px;
-  background: url(../../assets/images/img_main_page/Comment.png);
+  background: url(../assets/images/img_main_page/Comment.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 80%;
@@ -1069,7 +1069,7 @@ body {
   margin-top: 100px;
   width: 95px;
   height: 81px;
-  background: url(../../assets/images/img_twit_page/Group.png);
+  background: url(../assets/images/img_twit_page/Group.png);
 }
 .container-twit .welcome-twit h1 {
   margin: 0;
@@ -1131,7 +1131,7 @@ body {
 }
 .container-twit .twit-main .twit-main-navigation .twit-main-navigation-icon {
   margin-left: 41px;
-  background: url(../../assets/images/img_twit_page/home.png);
+  background: url(../assets/images/img_twit_page/home.png);
   width: 25px;
   height: 25px;
 }
@@ -1231,7 +1231,7 @@ body {
 .container-twit .container-corrent-twit .twit-current-twit .twit-current-twit-info .twit-current-twit-info-edit {
   width: 25px;
   height: 25px;
-  background: url(../../assets/images/img_twit_page/edit.png);
+  background: url(../assets/images/img_twit_page/edit.png);
   background-repeat: no-repeat;
   background-position: center;
   transition: 0.2s;
@@ -1245,7 +1245,7 @@ body {
 .container-twit .container-corrent-twit .twit-current-twit .twit-current-twit-info .twit-current-twit-info-delete {
   width: 29px;
   height: 29px;
-  background: url(../../assets/images/img_twit_page/Delete.png);
+  background: url(../assets/images/img_twit_page/Delete.png);
   background-repeat: no-repeat;
   background-position: center;
   box-sizing: border-box;
@@ -1261,7 +1261,7 @@ body {
 .container-twit .container-corrent-twit .twit-current-twit .twit-current-twit-info .twit-current-twit-info-messege {
   width: 27px;
   height: 25px;
-  background: url(../../assets/images/img_twit_page/Comment.png);
+  background: url(../assets/images/img_twit_page/Comment.png);
   background-repeat: no-repeat;
   background-size: 80%;
   background-position: center;

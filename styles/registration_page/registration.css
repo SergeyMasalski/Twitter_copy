@@ -100,7 +100,7 @@ body {
   height: 45px;
 }
 #registrationMainWrapper #registrationMainSektion #registrationMainFormBlockRaight .registration-user-name {
-  background-image: url(../../assets/images/img_registration_page/userName.png);
+  background-image: url(../assets/images/img_registration_page/userName.png);
   outline: none;
   background-repeat: no-repeat;
   background-color: #fffffa;
@@ -110,7 +110,7 @@ body {
   margin-top: 15px;
 }
 #registrationMainWrapper #registrationMainSektion #registrationMainFormBlockRaight .registration-password {
-  background: url(../../assets/images/img_registration_page/Group.png);
+  background: url(../assets/images/img_registration_page/Group.png);
   outline: none;
   background-repeat: no-repeat;
   background-color: #fffffa;
