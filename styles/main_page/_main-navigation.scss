@@ -10,7 +10,7 @@
 
     .main-navigation-icon {
         margin-left: 41px;
-        background: url(../../assets/images/img_main_page/home.png);
+        background: url(../assets/images/img_main_page/home.png);
         width: $width-navigation-icon;
         height: $height-navigation-icon;
     }
@@ -18,11 +18,11 @@
     a {
         text-decoration: none;
         font-size: $font-size-main-navigation;
-        color: #88658C;
+        color: #88658c;
     }
 
     :last-of-type {
-        color: #88658C;
+        color: #88658c;
         font-size: $font-size-main-navigation;
     }
 }

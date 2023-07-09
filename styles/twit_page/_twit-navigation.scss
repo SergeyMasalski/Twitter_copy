@@ -1,4 +1,4 @@
-@import "vars";
+@import 'vars';
 
 .twit-main-navigation {
     display: flex;
@@ -11,7 +11,7 @@
 
     .twit-main-navigation-icon {
         margin-left: 41px;
-        background: url(../../assets/images/img_twit_page/home.png);
+        background: url(../assets/images/img_twit_page/home.png);
         width: $width-navigation-icon;
         height: $height-navigation-icon;
     }
