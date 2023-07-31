@@ -21,6 +21,8 @@
 .main-current-twit-text {
     box-sizing: border-box;
     padding-left: 39px;
+    word-wrap: break-word;
+    max-width: 700px;
 }
 
 .main-current-twit-edit {

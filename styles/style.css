@@ -786,6 +786,8 @@ body {
 .main-container .main-content .main-current-all-tweets .main-current-twit .main-current-twit-text {
   box-sizing: border-box;
   padding-left: 39px;
+  word-wrap: break-word;
+  max-width: 700px;
 }
 .main-container .main-content .main-current-all-tweets .main-current-twit .main-current-twit-edit {
   display: flex;
